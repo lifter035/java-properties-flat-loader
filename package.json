@@ -1,11 +1,11 @@
 {
-  "name": "java-properties-flat-loader",
+  "name": "java-properties-namespaced-loader",
   "version": "1.0.0",
-  "description": "Enables require of .properties files to your Webpack-managed bundles.",
+  "description": "Enables require of .properties with namespaces (nested) and variables files to your Webpack-managed bundles.",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/io-german/java-properties-flat-loader"
+    "url": "https://github.com/lifter035/java-properties-namespaced-loader"
   },
   "scripts": {
     "test": "jasmine-node spec/*spec.js"
